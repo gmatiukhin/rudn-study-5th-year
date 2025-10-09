@@ -16,3 +16,5 @@ scikit-learn
 matplotlib
 ipympl
 mlxtend
+
+mujoco
