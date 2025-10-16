@@ -1,0 +1,14 @@
+jupyter
+jupyterlab-vim
+codeium-jupyter
+
+apex @ https://repo.radeon.com/rocm/manylinux/rocm-rel-7.0.2/apex-1.8.0a0%2Brocm7.0.2.git3f26640c-cp312-cp312-linux_x86_64.whl
+triton @ https://repo.radeon.com/rocm/manylinux/rocm-rel-7.0.2/triton-3.4.0%2Brocm7.0.2.gitf9e5bf54-cp312-cp312-linux_x86_64.whl
+pytorch-triton-rocm @ https://repo.radeon.com/rocm/manylinux/rocm-rel-7.0.2/pytorch_triton_rocm-3.5.0%2Bgitbbb06c03-cp312-cp312-linux_x86_64.whl
+torchvision @ https://repo.radeon.com/rocm/manylinux/rocm-rel-7.0.2/torchvision-0.24.0%2Brocm7.0.2.gitf52c4f1a-cp312-cp312-linux_x86_64.whl
+torch @ https://repo.radeon.com/rocm/manylinux/rocm-rel-7.0.2/torch-2.8.0%2Brocm7.0.2.git245bf6ed-cp312-cp312-linux_x86_64.whl
+
+numpy
+pandas
+
+pillow

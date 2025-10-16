@@ -1,0 +1,16 @@
+jupyter
+jupyterlab-vim
+codeium-jupyter
+
+tensorflow-rocm @ https://repo.radeon.com/rocm/manylinux/rocm-rel-7.0.2/tensorflow_rocm-2.19.1-cp312-cp312-manylinux_2_28_x86_64.whl
+keras
+keras-cv
+
+numpy
+pandas
+
+ucimlrepo
+scikit-learn
+matplotlib
+ipympl
+mlxtend
